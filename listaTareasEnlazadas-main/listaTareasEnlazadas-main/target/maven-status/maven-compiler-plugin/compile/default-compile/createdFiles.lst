@@ -1,0 +1,10 @@
+com\umariana\mavenproject1\ControlTareas.class
+com\umariana\mavenproject1\resources\JavaEE8Resource.class
+com\umariana\mavenproject1\Usurios.class
+servlet\SvVerificar.class
+servlet\SvCrearTarea.class
+servlet\SvEditar.class
+servlet\SvEliminarTarea.class
+com\umariana\mavenproject1\ControlUsuario.class
+com\umariana\mavenproject1\Tarea.class
+servlet\SvRegistrar.class

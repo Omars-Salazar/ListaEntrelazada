@@ -1,0 +1,10 @@
+====usuarios registrados========
+nombre: santiago
+cedula: 123
+contraseña: 321
+nombre: santiago
+cedula: 123
+contraseña: 321
+nombre: karen
+cedula: 456
+contraseña: 654
